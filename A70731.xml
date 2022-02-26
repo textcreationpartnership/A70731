@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miracles revived in the discovery of the Popish Plot by the late reverend Dr. of Salamanca</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70731</idno>
+            <idno type="STC">Wing O11</idno>
+            <idno type="STC">ESTC R30523</idno>
+            <idno type="EEBO-CITATION">11348329</idno>
+            <idno type="OCLC">ocm 11348329</idno>
+            <idno type="VID">47540</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47540)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1466:12 or 1750:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Miracles revived in the discovery of the Popish Plot by the late reverend Dr. of Salamanca</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>This item appears at reel 1466:12 incorrectly identified as Wing M2209, and at reel 1750:12 as Wing O11.</note>
+                  <note>Imperfect: print show-through with slight loss of print.</note>
+                  <note>Reproduction of originals in Chetham's Library, and the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:47540:1" rendition="simple:additions"/>
+            <head>MIRACLES Reviv'd, In the Diſcovery of the POPISH PLOT, By the late Reverend D<hi rend="sup">R</hi>. of <hi>SALAMANCA.</hi>
+            </head>
+            <p>IT is a <hi>Vulgar Errour,</hi> that <hi>Miracles</hi> are ceas'd in the <hi>Reform'd Churches.</hi> To confute which <hi>Paradox,</hi> we ſhall here produce ſome (among many) ſuch Demonſtrative Arguments &amp; Inſtances, taken from the acknow<g ref="char:EOLhyphen"/>ledg'd Miraculous Diſcovery of the <hi>Popiſh Plot,</hi> made by that Famous Miniſter of the Goſpel, and Learned Dr. of <hi>Salamanca T—O—,</hi> as none but <hi>Papiſts,</hi> and <hi>Popiſhly affected,</hi> can have the confidence to deny them.</p>
+            <p n="1">I. The Doctor (out of pure Zeal to Diſcover <hi>Popiſh Intrigues,</hi>) profeſt himſelf a <hi>Papiſt;</hi> Renounc'd the <hi>Protestant Religion;</hi> Ador'd, and Receiv'd the <hi>Conſecrated Hoſt;</hi> took <hi>Dreadful Oaths,</hi> even upon the <hi>Sacrament,</hi> to Practice, and Purſue, <hi>Moſt Helliſh and Bloody Deſigns</hi> for divers Years to<g ref="char:EOLhyphen"/>gether;<note place="margin">
+                  <hi>Stafford</hi>'s Tryal.</note> Yet all this while remain'd (as he ſays) a Real, Sincere, and <hi>conſtant Proteſtant. If this be not a</hi> Miracle <hi>the Devil's in't</hi>
+            </p>
+            <p n="2">II. The Doctor (good Man) to ſave His Majeſties Life,<note place="margin">
+                  <hi>Oais</hi>'s Nar<g ref="char:EOLhyphen"/>rative.</note> had wheedled the <hi>Jeſuits</hi> out of all their Secrets; He knew the very Time when <hi>Groves</hi> and <hi>Pickering</hi> laid daily wait to Shoot the KING; He hourly expected the Horrid Effects of Sir <hi>George Wakeman</hi>'s Poyſon; He was privy to the deſign'd Aſſaſſination of the KING at <hi>Windſor;</hi> He was certain, the <hi>Ruſ<g ref="char:EOLhyphen"/>ſians</hi> were actually upon the Place; He ſaw the Money ſent them for Ex<g ref="char:EOLhyphen"/>pedition, And every Moment waited to hear the Fatal Blow was given; Yet (ſee the wonderful Strangneſs of the Thing,) Neither the Dr. warn'd the KING of his Eminent Danger, Nor did the KING all this while (God be Thanked) ſuffer any the leaſt Harm. <hi>This is Miracle upon Miracle.</hi>
+            </p>
+            <p n="3">III. The Dr. aſſures us, There were huge Armies of <hi>Engliſh Papists,</hi>
+               <note place="margin">Ibidem.</note> (beſides <hi>Wild Iriſh</hi> and <hi>Spaniſh Pilgrims,</hi>) rais'd for Immediate Service; Yet ('tis ſtrange) not One Man of them ever appear'd: Theſe Swarms of <hi>Papiſts</hi> were to be Arm'd with <hi>Swords, Guns, Black-Bills, Fire-Balls,</hi> &amp;c. Yet none of theſe <hi>Magazines</hi> could ever be found. <hi>Oats</hi> ſaw, and Deliver'd, not a few <hi>Patents, Bulls,</hi> and <hi>Briefs;</hi> He read whole Buſhels of <hi>Letters</hi> &amp; <hi>Pac<g ref="char:EOLhyphen"/>quets,</hi> all containing <hi>Damnable Treaſon;</hi> Nay, He could punctually Recite upon his Fingers-ends the Expreſs Words of almoſt every Letter; Yet (ſtill more ſtrange,) neither He, nor any One for him, could ever produce One ſingle Patent, One Letter, One ſcrip of Paper, whereby to teſtifie the Truth of the reſt. <hi>Here is a whole Heap of Miracless!</hi>
+            </p>
+            <p n="4">IV. The Dr. immediately before His Diſcovery,<note place="margin">
+                  <hi>Stafford</hi>'s Tryal.</note> (though he had both the <hi>Purſes</hi> and <hi>Lives</hi> of the <hi>Conſpirators</hi> at his Command,) Yet at the ſame Time was ready to Starve, and Beg'd at the Papiſts Dores for Bread. <hi>This is as Strange as if it were a Miracle!</hi>
+            </p>
+            <pb n="2" facs="tcp:47540:2"/>
+            <p n="5">V.<note place="margin">
+                  <hi>Coleman</hi>'s Tryal. <hi>Wakeman</hi>'s Tryal.</note> The Dr. before the King and Council ſwore He never knew, nor had ſeen either Mr. <hi>Coleman,</hi> or Sir <hi>George Wakeman,</hi> until he ſaw them there preſent at the Gouncil-Board: The like Ignorance of Mr. <hi>Corker,</hi> or his Concerns, He atteſted at the Taking of <hi>Pickering</hi> in the <hi>Savoy;</hi> Yet at their Several <hi>Tryals,</hi> He knew them all, and had been their Intimate Aequaintance and Boſom Councellour. <hi>This ſurely is no ſmall Miracle.</hi>
+            </p>
+            <p n="6">VI.<note place="margin">Five <hi>Jeſuits</hi> Tryal.</note> The Dr. was Perſonally in <hi>London,</hi> and at St. <hi>Omers</hi> the ſelf-ſame Time; He ſaw, and ſpoke with Mr. <hi>Ireland</hi> in <hi>London,</hi> that very Moment <hi>Ireland</hi> was in <hi>Staffordſhire.</hi> Nay, if This be not ſufficient; He was really Preſent, Diſputed, and took <hi>Degrees</hi> at <hi>Salamanca;</hi> Yet never was ſeen or heard there. <hi>Theſe are Swingeing Miracles!</hi>
+            </p>
+            <p n="7">VII.<note place="margin">
+                  <hi>Stafford</hi>'s Tryal.</note> The Dr. Swore before the <hi>Houſe of Lords,</hi> He had Declar'd all he knew againſt any Perſon of what Quality ſoever in <hi>England;</hi> Yet af<g ref="char:EOLhyphen"/>terwards He accus'd one of the Beſt &amp; Higheſt Perſons in <hi>England</hi> of the Blackeſt Crimes <hi>Hell</hi> and <hi>Malice</hi> could ever Invent.<note place="margin">The Qu.</note> 
+               <hi>This, if it be not a Miracle, is at leaſt a Monstrous Prodigy!</hi>
+            </p>
+            <p n="8">VIII.<note place="margin">
+                  <hi>Coleman</hi>'s Tryal.</note> The Dr. once Depos'd, Mr. <hi>Bury</hi> was a very Honeſt Harmleſs Man; Yet afteswards when the ſaid <hi>Bury</hi> gave Evidence againſt Him, He ſwore he was a Notorious <hi>Prieſt</hi> and <hi>Jeſuit.</hi>
+               <note place="margin">Caſtlemains <hi>Tryal.</hi>
+               </note> 
+               <hi>This is a Miracle the wrong ſide outwards.</hi>
+            </p>
+            <p n="9">IX.<note place="margin">
+                  <hi>Colledges</hi> laſt Tryal</note> The Dr. formerly ſwore <hi>Abſolute Impoſſibilites</hi> againſt the <hi>Papists</hi> in behalf of the <hi>King;</hi> Now he ſwears <hi>Moral Improbabilities</hi> in behalf of <hi>Diſsenters</hi> againſt the <hi>King. This is a Presbyterian Miracle!</hi>
+            </p>
+            <p n="10">X. The Dr. is a <hi>Preacher of the Goſpel,</hi> yet no Chriſtian; A <hi>Priest,</hi> yet not Baptiz'd. <hi>This is little leſs than a Miracle!</hi>
+            </p>
+            <p n="11">XI. The Dr. ſwore, that Mr. <hi>Elliot</hi> (a Miniſter of the Ch. of <hi>England</hi>) having been a Circumciz'd Slave, had poiſon'd his <hi>Patrone;</hi> Yet, <hi>(O Won<g ref="char:EOLhyphen"/>der!)</hi> the ſame <hi>Patrone</hi> is now alive again, and ready to Atteſt the direct Contrary. <hi>Now we hope none will deny, but that the raiſing of the Dead, is a Grand Miracle!</hi>
+            </p>
+            <p n="12">XII.<note place="margin">Before the Company of <hi>Weavers.</hi>
+               </note> The Dr. Preach'd a Sermon, wherein he affirm'd, <hi>The Crucifixion of Chriſt was not available to Salvation,</hi> &amp;c. This indeed is not a <hi>Miracle,</hi> But it is a piece of the Neweſt and moſt Refin'd <hi>True-Proteſtant-Reforma<g ref="char:EOLhyphen"/>tion,</hi> ever yet came to Light ſince the <hi>Primitive Times of Blaſphemy and Atheiſm,</hi> And may juſtly give a Luſtre and Credit to all the other <hi>Mi<g ref="char:EOLhyphen"/>racles</hi> here Atteſted.</p>
+            <p>If it be Objected againſt theſe ſolid Proofs; That, for a <hi>Profligated Wretch</hi> of a loſt Conſcience and Deſperate Fortune, allur'd by Gain, and encourag'd by <hi>Indempnities,</hi> to Swear palpable Contradictions and Non<g ref="char:EOLhyphen"/>ſenſe, is no Great <hi>Miracle!</hi> It is anſwer'd; The leſs the <hi>Miracle</hi> is in ſo <hi>Swearing,</hi> the greater ſtill the <hi>Miracle</hi> is in being <hi>Believ'd;</hi> Eſpecially, when <hi>Sodomy, Buggery, Felony;</hi> Nay, and <hi>Perjury</hi> too prov'd upon him by his own Supporters,<note place="margin">
+                  <hi>Colledge</hi>'s Tryal.</note> 
+               <hi>D</hi>—, <hi>T</hi>— &amp; <hi>S</hi>—, ſhrewdly diminiſh the Credit of His <hi>Evidence. This is a</hi> Miracle <hi>with a</hi> Witneſs.</p>
+            <p>
+               <hi>Thus I have in ſhort (omitting Hundreds of Arguments more of the like Nature) clearly Demonſtrated; Not only that our Renowned</hi> Dr. <hi>and</hi> Swea<g ref="char:EOLhyphen"/>ring-Maſter <hi>hath wrought</hi> Grand Miracles; <hi>But alſo that the Magnitude of the</hi> Miracles, <hi>and Holineſs of the</hi> Saint, <hi>bear equal Proportion.</hi>
+            </p>
+            <epigraph>
+               <q>Ex Ungue cognoſce Leonem.</q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Banks,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
